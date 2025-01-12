@@ -13,7 +13,7 @@ This project investigates the effect of screen time before bed on sleep quality 
 
 ### Data Analysis
 
-1. Ensure you have R and the necessary libraries (`ggplot2`, `dplyr`, `caret`) installed.
+1. Ensure you have R and the necessary libraries installed.
 2. Run the R script `R Code/analysis.r` to perform the data analysis and generate the model performance metrics.
 
 ### Report Compilation
